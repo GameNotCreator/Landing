@@ -7,7 +7,7 @@ const config = {
   appDescription:
     "Rejoignez une large communauté de modèles, influenceurs et créateurs de contenus.",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
-  domainName: "tunisianpass.tn",
+  domainName: "tunisian-pass.tn",
   colors: {
     // REQUIRED — The DaisyUI theme to use (added to the main layout.js). Leave blank for default (light & dark mode). If you any other theme than light/dark, you need to add it in config.tailwind.js in daisyui.themes.
     theme: "lofi",
